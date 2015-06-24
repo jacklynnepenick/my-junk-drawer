@@ -1,0 +1,45 @@
+lupin-casper linux-signed-generic apt-clone btrfs-tools cifs-utils cryptsetup cryptsetup-bin dmraid dpkg-repack ecryptfs-utils gir1.2-json-1.0 gir1.2-timezonemap-1.0 gir1.2-xkl-1.0 gparted grub-gfxpayload-lists jfsutils keyutils kpartx kpartx-boot libcryptsetup4 libdevmapper-event1.02.1 libdmraid1.0.0.rc16 libecryptfs0 libgtkmm-2.4-1c2a liblzo2-2 libnss3-1d libreadline5 lvm2 metacity os-prober python3-icu python3-pam rdate reiserfsprogs sbsigntool ubiquity-casper ubiquity-slideshow-ubuntu wamerican watershed xfsprogs firefox-locale-en firefox-locale-es firefox-locale-zh-hans libreoffice-help-en-us archdetect-deb grub-common grub-pc grub-pc-bin grub2-common language-pack-en language-pack-en-base language-pack-es language-pack-es-base language-pack-gnome-en language-pack-gnome-en-base language-pack-gnome-es language-pack-gnome-es-base language-pack-gnome-zh-hans language-pack-gnome-zh-hans-base language-pack-zh-hans language-pack-zh-hans-base libdebian-installer4 ubiquity ubiquity-frontend-gtk ubiquity-ubuntu-artwork
+vim
+unity-tweak-tool
+pidgin
+autoconf bison bzip2 ccache cifs-utils curl dkms ethtool fakeroot firefox flex g++ gawk gcc git gzip heirloom-mailx lib32z1 rabbitmq-server lib32z1-dev libbz2-dev libc6 libc6:i386 libcurl4-openssl-dev libdbus-1-dev libdbus-glib-1-dev libevent-dev libffi6 libffi-dev libfontconfig1 liblzma5 liblzma-dev liblzo2-dev libmemcached-dev libncurses5-dev libnspr4-dev libpq-dev librabbitmq-dev libreadline6 libreadline6-dev libssh2-1 libssh2-1-dev libssl-dev libusb-1.0-0-dev libxml2-dev libxslt1-dev lzma mailutils make memcached mercurial ncurses-base network-manager nginx openssl pidgin policykit-1 python3 python3.3 python3-dev python-dev python-pip python-setuptools python-software-properties python-virtualenv qemu rabbitmq-server redis-server resolvconf ruby ruby-dev ruby scons socat sqlite subversion tar texinfo vim xauth xfonts-100dpi xfonts-75dpi xserver-xorg xserver-xorg-core xvfb zlib1g zlib1g-dev
+compizconfig-settings-manager wmctrl
+chef
+vim-gtk
+postgresql
+mysql-client
+libmysqlclient-dev
+xdotool
+htop
+awscli
+elinks
+w3m
+virtualbox
+rake
+cmake
+expect-dev
+ruby-rspec-core
+ruby2.0
+javascript-common
+libjavascriptcoregtk-3.0-bin
+gparted
+synaptic
+libev-dev
+libreadline-dev
+java-package
+default-jre
+ldap-account-manager
+gitk
+gitk
+zsh
+apache2
+zsh
+gitg
+gsutil
+s3cmd
+pep8
+python3-pip
+git-gui
+dict
+freshplayerplugin
+aptitude
