@@ -1,0 +1,1 @@
+/home/jwpenick/.bashrc.d/ps1.bash

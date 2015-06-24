@@ -1,0 +1,1 @@
+/home/jwpenick/.bashrc.d/directory_traversing.bash
