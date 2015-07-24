@@ -1,0 +1,327 @@
+<UserScriptConfig>
+	<Script basedir="Moodle_Redirecter" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="Takes those moodle links that you have to left click onto to open a new tab and fixes them so middle click won't just spit out a link." enabled="true" noframes="false" filename="Moodle_Redirecter.user.js" installTime="1384657613660" modified="1384733215381" name="Moodle Redirecter" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="7c90b9a3-0bf0-498d-8267-1377a8aba1c9" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Moodle_Redirecter/Moodle_Redirecter.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Moodle_Redirecter/Moodle_Redirecter.user.js">
+		<Grant>none</Grant>
+		<Include>http://cds.mtchs.org/*</Include>
+	</Script>
+	<Script basedir="PlagarismChecker" checkRemoteUpdates="1" dependhash="0bcb7e3a6324d19210f3331c044e039fb6461ba6" description="Checks that annoying plagerism box" enabled="true" noframes="false" filename="PlagarismChecker.user.js" installTime="1383164454792" modified="1390321875617" name="PlagarismChecker" namespace="C:\" runAt="document-end" updateMetaStatus="unknown" uuid="109bd129-b806-4737-b22b-517567d0599f" version="1" installurl="file:///C:/Users/Jack/Documents/PlagarismChecker.user.js" updateurl="file:///C:/Users/Jack/Documents/PlagarismChecker.user.js">
+		<Grant>none</Grant>
+		<Include>http://cds.mtchs.org/*</Include>
+		<Require filename="jquery-2.0.3.min.js"/>
+	</Script>
+	<Script basedir="OshaSkipper" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="Skip" enabled="true" noframes="false" filename="OshaSkipper.user.js" installTime="1382981450699" modified="1382981461209" name="OshaSkipper" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="2232ef80-7cb4-4ce1-87f6-9cb77a0c68b4" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/OshaSkipper/OshaSkipper.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/OshaSkipper/OshaSkipper.user.js">
+		<Grant>none</Grant>
+		<Include>http://campus.careersafeonline.com/*</Include>
+	</Script>
+	<Script basedir="YouTube_Auto_Buffer_&amp;_Auto_HD" checkRemoteUpdates="1" dependhash="41e0629ae30f40db06e82e26e8146cb2dabbb754" description="Buffers the video without autoplaying and puts it in HD if the option is on. For Firefox, Opera, &amp; Chrome" enabled="false" noframes="false" filename="49366.user.js" installTime="1390433101069" modified="1390433101069" name="YouTube Auto Buffer &amp; Auto HD" namespace="http://userscripts.org/users/23652" runAt="document-end" updateMetaStatus="unknown" uuid="ab6d18fe-fa7b-4a30-9a7e-28e93a24c4e9" version="1.2.87" installurl="https://userscripts.org/scripts/source/49366.user.js" updateurl="https://userscripts.org/scripts/source/49366.user.js" icon="logo-64x64.png">
+		<Grant>GM_info</Grant>
+		<Grant>GM_getValue</Grant>
+		<Grant>GM_log</Grant>
+		<Grant>GM_openInTab</Grant>
+		<Grant>GM_registerMenuCommand</Grant>
+		<Grant>GM_setValue</Grant>
+		<Grant>GM_xmlhttpRequest</Grant>
+		<Include>http://*.youtube.com/*</Include>
+		<Include>http://youtube.com/*</Include>
+		<Include>https://*.youtube.com/*</Include>
+		<Include>https://youtube.com/*</Include>
+		<Require filename="49700.user.js"/>
+		<Require filename="jsl-1.3.0.js"/>
+		<Require filename="186053.user.js"/>
+	</Script>
+	<Script basedir="RightToClick_(That_Worky)" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="false" noframes="false" filename="RightToClick_(That_Worky).user.js" installTime="1384648613064" modified="1384648613064" name="RightToClick (That Worky)" namespace="C:\" runAt="document-end" updateMetaStatus="unknown" uuid="0c7f3fcb-1210-411b-9f0f-82b7c003dfaa" version="1" installurl="file:///C:/Users/Jack/Desktop/SchoolLocal/guv/RightToClick_(That_Worky).user.js" updateurl="file:///C:/Users/Jack/Desktop/SchoolLocal/guv/RightToClick_(That_Worky).user.js">
+		<Grant>none</Grant>
+		<Include>*</Include>
+	</Script>
+	<Script basedir="Powerschool_Stay-Logged-In-er" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="Keeps you logged in to powerschool" enabled="true" noframes="false" filename="Powerschool_Stay-Logged-In-er.user.js" installTime="1384908336469" modified="1399316918038" name="Powerschool Stay-Logged-In-er" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="042007d0-99ad-42f8-93c9-7ec1856fb202" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Powerschool_Stay-Logged-In-er/Powerschool_Stay-Logged-In-er.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Powerschool_Stay-Logged-In-er/Powerschool_Stay-Logged-In-er.user.js">
+		<Grant>none</Grant>
+		<Include>https://mtchs.powerschool.com/guardian/*</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="PowerSchool_Log-Me-In" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="Logs me into PowerSchool" enabled="true" noframes="false" filename="PowerSchool_Log-Me-In.user.js" installTime="1385049731639" modified="1397834730622" name="PowerSchool Log-Me-In" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="2d38f326-9b12-4c21-a304-5c67f989f629" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/PowerSchool_Log-Me-In/PowerSchool_Log-Me-In.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/PowerSchool_Log-Me-In/PowerSchool_Log-Me-In.user.js">
+		<Grant>none</Grant>
+		<Include>https://mtchs.powerschool.com/public/*</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="Scrap.tf_Price_Getter" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="Gets prices from backpack.tf on hover" enabled="false" noframes="false" filename="Scrap.tf_Price_Getter.user.js" installTime="1385574777422" modified="1385588988630" name="Scrap.tf Price Getter" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="273004a5-ffed-45ed-8eff-eda0d11d98a0" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Scrap.tf_Price_Getter/Scrap.tf_Price_Getter.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Scrap.tf_Price_Getter/Scrap.tf_Price_Getter.user.js">
+		<Grant>GM_xmlhttpRequest</Grant>
+		<Grant>GM_getValue</Grant>
+		<Grant>GM_setValue</Grant>
+		<Include>http://scrap.tf/*</Include>
+		<Include>http://backpack.tf/api/IGetPrices/v2/?format=jsonp&amp;currency=metal</Include>
+	</Script>
+	<Script basedir="Price_Getter_Tester" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="Testing for scrap.tf price getter" enabled="false" noframes="false" filename="Price_Getter_Tester.user.js" installTime="1385587299694" modified="1385591093589" name="Price Getter Tester" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="95e47d86-9852-40b3-bdf7-2ef69c015aad" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Price_Getter_Tester/Price_Getter_Tester.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Price_Getter_Tester/Price_Getter_Tester.user.js">
+		<Grant>none</Grant>
+		<Include>http://backpack.tf/pricelist/spreadsheet</Include>
+	</Script>
+	<Script basedir="Backpack.tf_Prices" checkRemoteUpdates="1" dependhash="fbcedb4cd7e91c17af59bf67c632fe40dc8991f0" description="modded version of jacobisconfused script to get it working with last tf2op update, fixed some css, removed search from items icons, added bbcode buttons to new trade." enabled="false" noframes="false" filename="155963.user.js" installTime="1385617966430" modified="1385617966430" name="Backpack.tf Prices" namespace="Made 99% by l'autre!" runAt="document-end" updateMetaStatus="unknown" uuid="83a0b31d-bc41-4061-886e-7c2202e1fe22" version="3.0" installurl="https://userscripts.org/scripts/source/156744.user.js" updateurl="https://userscripts.org/scripts/source/156744.meta.js">
+		<Grant>GM_addStyle</Grant>
+		<Grant>GM_getValue</Grant>
+		<Grant>GM_setValue</Grant>
+		<Grant>GM_xmlhttpRequest</Grant>
+		<Include>*tf2outpost.com/*</Include>
+		<Require filename="jquery-1.7.2.min.js"/>
+		<Require filename="gm_jq_xhr.js"/>
+	</Script>
+	<Script basedir="wyzant_hax" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="Hax Wyzant" enabled="false" noframes="false" filename="wyzant_hax.user.js" installTime="1385627488087" modified="1385628650979" name="wyzant hax" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="b675df56-c8f9-4fa3-909d-9d04ff3a4d79" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/wyzant_hax/wyzant_hax.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/wyzant_hax/wyzant_hax.user.js">
+		<Grant>none</Grant>
+		<Include>http://www.wyzant.com/scholarships/v4/essay86514-Boise-ID.aspx</Include>
+	</Script>
+	<Script basedir="Scrap.tf_Item_Information" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="Scrap.tf Item Information" enabled="true" noframes="false" filename="171266.user.js" installTime="1388703229209" modified="1388703229209" name="Scrap.tf Item Information" namespace="userscripts.org" runAt="document-end" updateMetaStatus="unknown" uuid="77739fc7-d9e1-45fb-9d64-190e896af946" version="1.1" installurl="https://userscripts.org/scripts/source/171266.user.js" updateurl="https://userscripts.org/scripts/source/171266.meta.js">
+		<Grant>none</Grant>
+		<Include>http://scrap.tf/weapons/*</Include>
+		<Include>http://scrap.tf/hats/*</Include>
+	</Script>
+	<Script basedir="Free_Rice_Bot" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="Gets Free Rice" enabled="false" noframes="false" filename="Free_Rice_Bot.user.js" installTime="1389809151625" modified="1389809521077" name="Free Rice Bot" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="28e91cec-532f-4fa0-a416-a4de0b478079" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Free_Rice_Bot/Free_Rice_Bot.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Free_Rice_Bot/Free_Rice_Bot.user.js">
+		<Grant>none</Grant>
+		<Include>http://freerice.com/#/chemical-symbols-basic/*</Include>
+	</Script>
+	<Script basedir="DefaultCheckBoxInverter" checkRemoteUpdates="1" dependhash="0bcb7e3a6324d19210f3331c044e039fb6461ba6" description="Checks boxes that are unchecked by default and unchecks boxes that are checked by default." enabled="false" noframes="false" filename="DefaultCheckBoxInverter.user.js" installTime="1390093243042" modified="1390093291972" name="DefaultCheckBoxInverter" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="486ac7c8-ef2d-4de1-bbe7-bca7d1955d55" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/DefaultCheckBoxInverter/DefaultCheckBoxInverter.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/DefaultCheckBoxInverter/DefaultCheckBoxInverter.user.js">
+		<Grant>none</Grant>
+		<Include>*</Include>
+		<Require filename="jquery-2.0.3.min.js"/>
+	</Script>
+	<Script basedir="ClickDisappearThing" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="false" noframes="false" filename="ClickDisappearThing.user.js" installTime="1391718625487" modified="1399576630780" name="ClickDisappearThing" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="a947e581-1ab5-4280-9ce5-d273d49b13d3" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/ClickDisappearThing/ClickDisappearThing.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/ClickDisappearThing/ClickDisappearThing.user.js">
+		<Grant>none</Grant>
+		<Include>*</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="Add_Explain_Button" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="true" noframes="false" filename="Add_Explain_Button.user.js" installTime="1392666940757" modified="1428197645685" name="Add Explain Button" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="a19f70df-d04c-4e21-9fbe-9dd5f8bb4607" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Add_Explain_Button/Add_Explain_Button.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Add_Explain_Button/Add_Explain_Button.user.js">
+		<Grant>none</Grant>
+		<Include>*xkcd.com/*</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="Moodle_NIDA_Redirecter_Fixer" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="true" noframes="false" filename="Moodle_NIDA_Redirecter_Fixer.user.js" installTime="1393618160977" modified="1393618172762" name="Moodle NIDA Redirecter Fixer" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="803f6fa9-2f94-4f56-8359-cb94f106d881" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Moodle_NIDA_Redirecter_Fixer/Moodle_NIDA_Redirecter_Fixer.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Moodle_NIDA_Redirecter_Fixer/Moodle_NIDA_Redirecter_Fixer.user.js">
+		<Grant>none</Grant>
+		<Include>http://cds.mtchs.org/moodle/course/view.php?id=73</Include>
+	</Script>
+	<Script basedir="Scroller" checkRemoteUpdates="1" dependhash="0bcb7e3a6324d19210f3331c044e039fb6461ba6" description="Scrolls down to next *whoknows* when you press the ` key.  Not to be combined with other ` key extensions." enabled="false" noframes="false" filename="Scroller.user.js" installTime="1393816300139" modified="1393816957630" name="Scroller" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="01fa5c6b-248e-4616-a314-92ebb5d16144" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Scroller/Scroller.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Scroller/Scroller.user.js">
+		<Grant>none</Grant>
+		<Include>*</Include>
+		<Require filename="jquery-2.0.3.min.js"/>
+	</Script>
+	<Script basedir="KeyDetector" checkRemoteUpdates="1" dependhash="e364cd5eb5fd7ba48a19746da427ad2c7f971b28" description="Determine which key you just pushed.  Do not activate with any other plugins" enabled="false" noframes="false" filename="KeyDetector.user.js" installTime="1393816419401" modified="1401300705537" name="KeyDetector" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="6a963017-ce0f-4b0a-a9e4-3499da9ddf11" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/KeyDetector/KeyDetector.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/KeyDetector/KeyDetector.user.js">
+		<Grant>none</Grant>
+		<Include>*</Include>
+		<Require filename="jquery-2.1.1.min.js"/>
+	</Script>
+	<Script basedir="MoodleGoToLoginPage" checkRemoteUpdates="1" dependhash="0bcb7e3a6324d19210f3331c044e039fb6461ba6" description="" enabled="false" noframes="false" filename="MoodleGoToLoginPage.user.js" installTime="1393872600604" modified="1393872814511" name="MoodleGoToLoginPage" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="6a37bcaa-3bb2-4eeb-833c-9d7395c27482" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/MoodleGoToLoginPage/MoodleGoToLoginPage.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/MoodleGoToLoginPage/MoodleGoToLoginPage.user.js">
+		<Grant>none</Grant>
+		<Include>http://cds.mtchs.org/*</Include>
+		<Require filename="jquery-2.0.3.min.js"/>
+	</Script>
+	<Script basedir="Tumtaster" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="This script creates links to download mp3's from audio posts on Tumblr." enabled="true" noframes="false" filename="29860.user.js" installTime="1393973892137" modified="1393973892137" name="Tumtaster" namespace="bjornstar" runAt="document-end" updateMetaStatus="unknown" uuid="d46a67cc-1444-4e17-888f-e07ba168ac55" version="null" installurl="https://userscripts.org/scripts/source/29860.user.js" updateurl="https://userscripts.org/scripts/source/29860.user.js">
+		<Exclude>http://www.tumblr.com/show/text/*</Exclude>
+		<Exclude>http://www.tumblr.com/show/photos/*</Exclude>
+		<Exclude>http://www.tumblr.com/show/quotes/*</Exclude>
+		<Exclude>http://www.tumblr.com/show/videos/*</Exclude>
+		<Exclude>http://www.tumblr.com/show/links/*</Exclude>
+		<Exclude>http://www.tumblr.com/show/chats/*</Exclude>
+		<Exclude>http://www.tumblr.com/dashboard/iframe*</Exclude>
+		<Exclude>http://*.disqus.com/*</Exclude>
+		<Grant>none</Grant>
+		<Include>http://*.tumblr.com/*</Include>
+		<Include>http://bjornstar.com/*</Include>
+		<Include>http://toys.tumblrist.com/audio/*</Include>
+	</Script>
+	<Script basedir="Dilbert_Random_Button" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="true" noframes="false" filename="Dilbert_Random_Button.user.js" installTime="1394137954948" modified="1424127419098" name="Dilbert Random Button" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="75274c0a-46d6-4add-a020-99c80026839d" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Dilbert_Random_Button/Dilbert_Random_Button.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Dilbert_Random_Button/Dilbert_Random_Button.user.js">
+		<Grant>none</Grant>
+		<Include>http://www.dilbert.com/*</Include>
+		<Include>http://dilbert.com/*</Include>
+	</Script>
+	<Script basedir="Computer_Science_American_Schools_Only" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="true" noframes="false" filename="Computer_Science_American_Schools_Only.user.js" installTime="1394148574921" modified="1394148803078" name="Computer Science American Schools Only" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="f466bcca-3a0c-4ce2-94da-c33bf8baaf65" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Computer_Science_American_Schools_Only/Computer_Science_American_Schools_Only.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Computer_Science_American_Schools_Only/Computer_Science_American_Schools_Only.user.js">
+		<Grant>none</Grant>
+		<Include>http://www.shanghairanking.com/SubjectCS2013.html</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="adblocker" checkRemoteUpdates="1" dependhash="e364cd5eb5fd7ba48a19746da427ad2c7f971b28" description="" enabled="false" noframes="false" filename="adblocker.user.js" installTime="1394243902740" modified="1402117601702" name="adblocker" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="98665e72-f7b8-427a-90c5-5996aa8276ec" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/adblocker/adblocker.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/adblocker/adblocker.user.js">
+		<Grant>none</Grant>
+		<Include>*</Include>
+		<Require filename="jquery-2.1.1.min.js"/>
+	</Script>
+	<Script basedir="Fix_another_table" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="true" noframes="false" filename="Fix_another_table.user.js" installTime="1394253542673" modified="1394294401838" name="Fix another table" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="72c1b8e0-3c85-45a3-b4c2-5d6ab7d47146" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Fix_another_table/Fix_another_table.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Fix_another_table/Fix_another_table.user.js">
+		<Grant>none</Grant>
+		<Include>http://www.nytimes.com/interactive/2012/07/08/education/edlife/8edlife_chart.html*</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="NEXT" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="true" noframes="false" filename="NEXT.user.js" installTime="1394635671618" modified="1394943165346" name="NEXT" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="1f97dd40-e515-4a77-8522-614518c8d514" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/NEXT/NEXT.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/NEXT/NEXT.user.js">
+		<Grant>none</Grant>
+		<Include>http://www.darthsanddroids.net/episodes/*</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="Move_On" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="true" noframes="false" filename="Move_On.user.js" installTime="1395089174229" modified="1395090159359" name="Move On" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="de702aeb-1c7e-4851-8a75-05ae7b79393a" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Move_On/Move_On.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Move_On/Move_On.user.js">
+		<Grant>none</Grant>
+		<Include>file:///C:/Users/Jack/Pictures/DarthsAndDroids/EpisodeIII/*</Include>
+	</Script>
+	<Script basedir="SpinThemRightRoundBaby" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="false" noframes="false" filename="SpinThemRightRoundBaby.user.js" installTime="1395455230657" modified="1395455583623" name="SpinThemRightRoundBaby" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="c92d793e-9960-446c-898c-74ddacce2987" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/SpinThemRightRoundBaby/SpinThemRightRoundBaby.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/SpinThemRightRoundBaby/SpinThemRightRoundBaby.user.js">
+		<Grant>none</Grant>
+		<Include>http://www.ryanbenson.info/2048/</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="DIE_DIE_DIE" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="true" noframes="false" filename="DIE_DIE_DIE.user.js" installTime="1396476788802" modified="1397870739289" name="DIE DIE DIE" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="f8c19176-42da-4d9f-be19-624e48aa3702" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/DIE_DIE_DIE/DIE_DIE_DIE.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/DIE_DIE_DIE/DIE_DIE_DIE.user.js">
+		<Grant>none</Grant>
+		<Include>http://loa.teebik.com/lp_many_queens_sound.html</Include>
+		<Include>http://www.betonline.ag/*</Include>
+		<Include>http://us.anno-online.com/*</Include>
+		<Include>http://engine.4dsply.com/*</Include>
+	</Script>
+	<Script basedir="Moodle_Log_Me_In" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="true" noframes="false" filename="Moodle_Log_Me_In.user.js" installTime="1396536923712" modified="1424976669035" name="Moodle Log Me In" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="8cc84217-8b6f-4fc0-af58-966f61225b9f" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Moodle_Log_Me_In/Moodle_Log_Me_In.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Moodle_Log_Me_In/Moodle_Log_Me_In.user.js">
+		<Grant>none</Grant>
+		<Include>*cds.mtchs.org*</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="SpamCollectionsBot" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="false" noframes="false" filename="SpamCollectionsBot.user.js" installTime="1397318246535" modified="1397318567241" name="SpamCollectionsBot" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="2bb76b57-9af7-4487-b22f-21d521394947" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/SpamCollectionsBot/SpamCollectionsBot.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/SpamCollectionsBot/SpamCollectionsBot.user.js">
+		<Grant>none</Grant>
+		<Include>http://bazaar.tf/collect</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="MediaFire_Fixer" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="true" noframes="false" filename="MediaFire_Fixer.user.js" installTime="1397869766394" modified="1397870277025" name="MediaFire Fixer" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="4957b6b2-6645-46cf-b419-887d05d01903" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/MediaFire_Fixer/MediaFire_Fixer.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/MediaFire_Fixer/MediaFire_Fixer.user.js">
+		<Grant>none</Grant>
+		<Include>http://www.mediafire.com/download/*</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="Random!" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="true" noframes="false" filename="Random!.user.js" installTime="1399310844250" modified="1407807867791" name="Random!" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="b5134193-59aa-4176-9f3e-ad933ff75559" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Random!/Random!.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Random!/Random!.user.js">
+		<Grant>GM_addStyle</Grant>
+		<Include>http://www.explainxkcd.com/*</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="Content_before_chrome_plz" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="false" noframes="false" filename="Content_before_chrome_plz.user.js" installTime="1399576596650" modified="1399576796922" name="Content before chrome plz" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="c7649666-cd6c-4091-ac6b-446a5516f969" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Content_before_chrome_plz/Content_before_chrome_plz.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Content_before_chrome_plz/Content_before_chrome_plz.user.js">
+		<Grant>none</Grant>
+		<Include>http://supreme.justia.com/cases/federal/us/330/1/case.html</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="Math_Class_Fixer" checkRemoteUpdates="1" dependhash="e364cd5eb5fd7ba48a19746da427ad2c7f971b28" description="" enabled="false" noframes="false" filename="Math_Class_Fixer.user.js" installTime="1400166561530" modified="1400167903976" name="Math Class Fixer" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="52a40543-b59b-4617-b372-92980c58f0af" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Math_Class_Fixer/Math_Class_Fixer.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Math_Class_Fixer/Math_Class_Fixer.user.js">
+		<Grant>none</Grant>
+		<Include>http://cds.mtchs.org/moodle/course/view.php?*id=46*</Include>
+		<Require filename="jquery-2.1.1.min.js"/>
+	</Script>
+	<Script basedir="Citizenship_Test_Modifications" checkRemoteUpdates="1" dependhash="e364cd5eb5fd7ba48a19746da427ad2c7f971b28" description="" enabled="true" noframes="false" filename="Citizenship_Test_Modifications.user.js" installTime="1401300655248" modified="1401300767973" name="Citizenship Test Modifications" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="70f55008-fdab-4f63-9bec-d92b76eae5ad" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Citizenship_Test_Modifications/Citizenship_Test_Modifications.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Citizenship_Test_Modifications/Citizenship_Test_Modifications.user.js">
+		<Grant>none</Grant>
+		<Include>http://media.pearsoncmg.com/long/long_longman_media_1/citizenship_test/player.html</Include>
+		<Require filename="jquery-2.1.1.min.js"/>
+	</Script>
+	<Script basedir="Keyboard=Leapard" checkRemoteUpdates="1" dependhash="e364cd5eb5fd7ba48a19746da427ad2c7f971b28" description="" enabled="false" noframes="false" filename="Keyboard=Leapard.user.js" installTime="1402117523924" modified="1410184043311" name="Keyboard=Leapard" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="9fe1edee-1853-4971-bf4e-f18602fa2060" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Keyboard=Leapard/Keyboard=Leapard.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Keyboard=Leapard/Keyboard=Leapard.user.js">
+		<Grant>none</Grant>
+		<Include>*</Include>
+		<Require filename="jquery-2.1.1.min.js"/>
+	</Script>
+	<Script basedir="Screw_Ads" checkRemoteUpdates="1" dependhash="e364cd5eb5fd7ba48a19746da427ad2c7f971b28" description="" enabled="true" noframes="false" filename="Screw_Ads.user.js" installTime="1404434560277" modified="1405296966017" name="Screw Ads" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="05bee8e7-075a-4952-a2c2-c7724e22403f" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Screw_Ads/Screw_Ads.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Screw_Ads/Screw_Ads.user.js">
+		<Grant>none</Grant>
+		<Include>http://www.writing.com/*</Include>
+		<Require filename="jquery-2.1.1.min.js"/>
+	</Script>
+	<Script basedir="Backpack.tf_prices_on_Tf2outpost" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="true" noframes="false" filename="t.user.js" installTime="1404879455074" modified="1404879455074" name="Backpack.tf prices on Tf2outpost" namespace="dl.dropboxusercontent.com" runAt="document-end" updateMetaStatus="unknown" uuid="28e093a0-7613-48db-9bc2-d010b8dd1d7c" version="1.1" installurl="https://dl.dropboxusercontent.com/u/3297887/t.user.js" updateurl="https://userscripts.org/scripts/source/486141.meta.js">
+		<Grant>GM_xmlhttpRequest</Grant>
+		<Include>http://*.tf2outpost.com/*</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="TF2Outpost_price_finder" checkRemoteUpdates="1" dependhash="836b56b7ca860438e1a2918eae85436a5f73d940" description="Show prices from backpack.tf" enabled="false" noframes="false" filename="414694.user.js" installTime="1404879162092" modified="1404879199478" name="TF2Outpost price finder" namespace="http://steamcommunity.com/id/NikoRez/" runAt="document-end" updateMetaStatus="unknown" uuid="28bf9652-1b73-4eba-90ed-9238359c39ff" version="0.1" installurl="https://userscripts.org/scripts/source/414694.user.js" updateurl="https://userscripts.org/scripts/source/414694.user.js">
+		<Grant>GM_getValue</Grant>
+		<Grant>GM_setValue</Grant>
+		<Grant>GM_xmlhttpRequest</Grant>
+		<Include>*tf2outpost.com/*</Include>
+		<Require filename="jquery.min.js"/>
+	</Script>
+	<Script basedir="Uncollapse_Hiddens" checkRemoteUpdates="1" dependhash="e364cd5eb5fd7ba48a19746da427ad2c7f971b28" description="" enabled="false" noframes="false" filename="Uncollapse_Hiddens.user.js" installTime="1405210456286" modified="1406183721704" name="Uncollapse Hiddens" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="85d5faa4-122c-4ced-a6bf-6033cd57b9d1" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Uncollapse_Hiddens/Uncollapse_Hiddens.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Uncollapse_Hiddens/Uncollapse_Hiddens.user.js">
+		<Grant>none</Grant>
+		<Include>http://www.tf2outpost.com/*</Include>
+		<Require filename="jquery-2.1.1.min.js"/>
+	</Script>
+	<Script basedir="Kill_Outpost_Adds" checkRemoteUpdates="1" dependhash="e364cd5eb5fd7ba48a19746da427ad2c7f971b28" description="" enabled="false" noframes="false" filename="Kill_Outpost_Adds.user.js" installTime="1405213151338" modified="1405990062933" name="Kill Outpost Adds" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="299d99e0-43dd-44c4-94a3-1d2fc1432bae" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Kill_Outpost_Adds/Kill_Outpost_Adds.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Kill_Outpost_Adds/Kill_Outpost_Adds.user.js">
+		<Grant>none</Grant>
+		<Include>http://www.tf2outpost.com/*</Include>
+		<Require filename="jquery-2.1.1.min.js"/>
+	</Script>
+	<Script basedir="Backpack.tf,_why_u_do_dis" checkRemoteUpdates="1" dependhash="581df2636b468212badaeb607c33b77a16a1a816" description="" enabled="false" noframes="false" filename="Backpack.tf,_why_u_do_dis.user.js" installTime="1405989900447" modified="1406502991978" name="Backpack.tf, why u do dis?" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="be890d3e-0f96-48c7-a82f-a555ad0ad73c" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Backpack.tf,_why_u_do_dis/Backpack.tf,_why_u_do_dis.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Backpack.tf,_why_u_do_dis/Backpack.tf,_why_u_do_dis.user.js">
+		<Grant>GM_addStyle</Grant>
+		<Include>http://backpack.tf/*</Include>
+		<Require filename="jquery.min.js"/>
+		<Require filename="outerHTML-2.1.0-min.js"/>
+	</Script>
+	<Script basedir="Backpack.tf_Filter_by_Custom_Name" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="true" noframes="false" filename="Backpack.tf_Filter_by_Custom_Name.user.js" installTime="1406261739223" modified="1406262731234" name="Backpack.tf Filter by Custom Name" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="85a6c441-cff0-4721-9901-d26df2db3982" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Backpack.tf_Filter_by_Custom_Name/Backpack.tf_Filter_by_Custom_Name.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Backpack.tf_Filter_by_Custom_Name/Backpack.tf_Filter_by_Custom_Name.user.js">
+		<Grant>none</Grant>
+		<Include>http://backpack.tf/classifieds/?item=Grenade%20Launcher&amp;quality=11&amp;tradable=1&amp;craftable=1&amp;page=3</Include>
+	</Script>
+	<Script basedir="Adblock" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="false" noframes="false" filename="Adblock.user.js" installTime="1407807310927" modified="1407807401273" name="Adblock" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="47cbae2b-ed22-445b-b707-05aa1a76cb71" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Adblock/Adblock.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Adblock/Adblock.user.js">
+		<Grant>none</Grant>
+		<Include>http://www.explainxkcd.com/*</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="Kill_all_members" checkRemoteUpdates="1" dependhash="e364cd5eb5fd7ba48a19746da427ad2c7f971b28" description="" enabled="false" noframes="false" filename="Kill_all_members.user.js" installTime="1407975106687" modified="1407975219419" name="Kill all members" namespace="derrr" runAt="document-end" updateMetaStatus="unknown" uuid="da1cbc6c-d0c6-487a-a610-1400884eec40" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Kill_all_members/Kill_all_members.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Kill_all_members/Kill_all_members.user.js">
+		<Grant>none</Grant>
+		<Include>https://www.facebook.com/events*</Include>
+		<Require filename="jquery-2.1.1.min.js"/>
+	</Script>
+	<Script basedir="Screw_Ads_(Sparknotes)" checkRemoteUpdates="1" dependhash="e364cd5eb5fd7ba48a19746da427ad2c7f971b28" description="" enabled="true" noframes="false" filename="Screw_Ads_(Sparknotes).user.js" installTime="1409848495238" modified="1409849133857" name="Screw Ads (Sparknotes)" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="99f14713-f2a2-44af-b113-d9ffbc1b4ef5" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Screw_Ads_(Sparknotes)/Screw_Ads_(Sparknotes).user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Screw_Ads_(Sparknotes)/Screw_Ads_(Sparknotes).user.js">
+		<Grant>none</Grant>
+		<Include>http://www.sparknotes.com/*</Include>
+		<Require filename="jquery-2.1.1.min.js"/>
+	</Script>
+	<Script basedir="xkcd_to_ip" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="true" noframes="false" filename="xkcd_to_ip.user.js" installTime="1411668280933" modified="1411668280933" name="xkcd to ip" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="6dd27b20-1068-4171-9b97-5e70dfb5c11d" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/xkcd_to_ip/xkcd_to_ip.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/xkcd_to_ip/xkcd_to_ip.user.js">
+		<Grant>none</Grant>
+		<Include>http://107.6.106.82/</Include>
+	</Script>
+	<Script basedir="Ena_Fixer" checkRemoteUpdates="1" dependhash="e364cd5eb5fd7ba48a19746da427ad2c7f971b28" description="" enabled="true" noframes="false" filename="Ena_Fixer.user.js" installTime="1415380397313" modified="1415380900343" name="Ena Fixer" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="05a91155-1ef1-4333-a4e3-a42010d94835" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Ena_Fixer/Ena_Fixer.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Ena_Fixer/Ena_Fixer.user.js">
+		<Grant>none</Grant>
+		<Include>http://services.ena.com/cwp/ws.php?*</Include>
+		<Require filename="jquery-2.1.1.min.js"/>
+	</Script>
+	<Script basedir="Max_Width" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="true" noframes="false" filename="Max_Width.user.js" installTime="1416343511768" modified="1418510645934" name="Max Width" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="59dff19d-cfb2-407e-99d9-998bb014e4d9" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Max_Width/Max_Width.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Max_Width/Max_Width.user.js">
+		<Grant>GM_addStyle</Grant>
+		<Include>*</Include>
+	</Script>
+	<Script basedir="I_hate_you" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="true" noframes="false" filename="I_hate_you.user.js" installTime="1416425831945" modified="1416425831945" name="I hate you" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="2fb8931e-7d19-4219-953f-1574638ae193" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/I_hate_you/I_hate_you.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/I_hate_you/I_hate_you.user.js">
+		<Grant>none</Grant>
+		<Include>https://docs.google.com/a/mtchs.org/forms/d/1vNwFO0GVsaDmWAwJ9reZ5dLK4NH3urPwv1WALtIMrzY/viewform</Include>
+	</Script>
+	<Script basedir="WordCounter" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="false" noframes="false" filename="WordCounter.user.js" installTime="1418518412207" modified="1418520804495" name="WordCounter" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="a18d4d92-d779-495d-95ad-8632147f5aee" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/WordCounter/WordCounter.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/WordCounter/WordCounter.user.js">
+		<Grant>none</Grant>
+		<Include>*</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="Spendster_is_going_to_die" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="YEEEAHH" enabled="true" noframes="false" filename="Spendster_is_going_to_die.user.js" installTime="1422299640789" modified="1422301041247" name="Spendster is going to die" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="9d5f8c7c-31d4-4cd0-8393-05f48740b5e1" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Spendster_is_going_to_die/Spendster_is_going_to_die.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Spendster_is_going_to_die/Spendster_is_going_to_die.user.js">
+		<Grant>none</Grant>
+		<Include>http://www.spendster.org/</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="sign_in_out_automagically" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="true" noframes="false" filename="sign_in_out_automagically.user.js" installTime="1422646184283" modified="1423493469062" name="sign in/ out automagically" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="b7fd13cb-7493-4efd-8df2-998acbae9de5" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/sign_in_out_automagically/sign_in_out_automagically.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/sign_in_out_automagically/sign_in_out_automagically.user.js">
+		<Grant>none</Grant>
+		<Include>https://docs.google.com/a/mtchs.org/forms/d/11NWvlYebW9nHDHHSyVoDggg_Tip-LIcPWnY1LyVEi0c/viewform?embedded=true*</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="Go_Back" checkRemoteUpdates="1" dependhash="e364cd5eb5fd7ba48a19746da427ad2c7f971b28" description="" enabled="true" noframes="false" filename="Go_Back.user.js" installTime="1422753135376" modified="1422753281758" name="Go Back" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="390e398c-97c1-4fc0-b595-ac66310290d7" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Go_Back/Go_Back.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Go_Back/Go_Back.user.js">
+		<Grant>none</Grant>
+		<Include>http://thedailywtf.com/articles/*</Include>
+		<Require filename="jquery-2.1.1.min.js"/>
+	</Script>
+	<Script basedir="giv_me_email" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="false" noframes="false" filename="giv_me_email.user.js" installTime="1423243058612" modified="1423674451545" name="giv me email" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="a079683f-1882-418f-bf7b-e7164321f39c" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/giv_me_email/giv_me_email.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/giv_me_email/giv_me_email.user.js">
+		<Grant>GM_openInTab</Grant>
+		<Grant>GM_getValue</Grant>
+		<Grant>GM_setValue</Grant>
+		<Include>http://legislature.idaho.gov/about/contactbycommittee.cfm</Include>
+		<Include>http://legislature.idaho.gov/about/contactmembersform.cfm*</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="set_me_email" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="false" noframes="false" filename="set_me_email.user.js" installTime="1423500150897" modified="1423502501444" name="set_me_email" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="d566ed7e-2aef-4956-82e6-33cea805e776" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/set_me_email/set_me_email.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/set_me_email/set_me_email.user.js">
+		<Grant>GM_getValue</Grant>
+		<Grant>GM_setValue</Grant>
+		<Include>http://legislature.idaho.gov/about/contactmembersform.cfm*</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="Middle_Click_on_JS" checkRemoteUpdates="1" dependhash="e35578d531250ec308d3e8c97bba50193db849a9" description="" enabled="false" noframes="false" filename="Middle_Click_on_JS.user.js" installTime="1424047942722" modified="1424048729638" name="Middle Click on JS" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="a3f3f86e-7e41-462f-8139-853fe28ec258" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Middle_Click_on_JS/Middle_Click_on_JS.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Middle_Click_on_JS/Middle_Click_on_JS.user.js">
+		<Grant>none</Grant>
+		<Include>*</Include>
+		<Require filename="jquery-2.1.0.min.js"/>
+	</Script>
+	<Script basedir="Force_Non-scrolling_Iframes" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="true" noframes="false" filename="Force_Non-scrolling_Iframes.user.js" installTime="1427848026528" modified="1427848026528" name="Force Non-scrolling Iframes" namespace="C:\Users\Jack\Documents\Greasemonkey Scripts" runAt="document-end" updateMetaStatus="unknown" uuid="2e9e6a9b-4a3c-48ee-96b0-75ab4f5c0270" version="1" installurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Force_Non-scrolling_Iframes/Force_Non-scrolling_Iframes.user.js" updateurl="file:///C:/Users/Jack/AppData/Roaming/Mozilla/Firefox/Profiles/s6ixug7h.default/gm_scripts/Force_Non-scrolling_Iframes/Force_Non-scrolling_Iframes.user.js">
+		<Grant>none</Grant>
+		<Include>http://stanfordcareers.stanford.edu/job-search</Include>
+	</Script>
+	<Script basedir="New_Agar_Server_Selector" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="community run mod feature set for agar.io" enabled="false" noframes="false" filename="mods.user.js" installTime="1431475535655" modified="1431475535655" name="New Agar Server Selector" namespace="electronoob-agarmods" runAt="document-end" updateMetaStatus="fail" uuid="561df2d3-c573-4b42-9b20-3d019da37ce3" version="1.5.2" installurl="http://agariomods.com/mods.user.js" updateurl="http://agariomods.com/mods.user.js">
+		<Grant>none</Grant>
+		<Match>http://agar.io</Match>
+	</Script>
+	<Script basedir="AgarioMods_Server_Selector" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="community run mod feature set for agar.io" enabled="false" noframes="false" filename="mods.user.js" installTime="1432592667570" modified="1432592667570" name="AgarioMods Server Selector" namespace="electronoob-agarmods" runAt="document-end" updateMetaStatus="fail" uuid="48188997-378b-4d4d-b30b-3839a3251799" version="1.7.3" installurl="http://agariomods.com/mods.user.js" updateurl="http://agariomods.com/mods.user.js">
+		<Grant>none</Grant>
+		<Match>http://agar.io</Match>
+	</Script>
+</UserScriptConfig>
