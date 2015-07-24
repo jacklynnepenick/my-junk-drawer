@@ -58,6 +58,10 @@ autocmd FileType yaml setlocal shiftwidth=2
 autocmd FileType yaml setlocal tabstop=2
 autocmd FileType yaml setlocal softtabstop=2
 
+autocmd FileType eruby setlocal shiftwidth=2
+autocmd FileType eruby setlocal tabstop=2
+autocmd FileType eruby setlocal softtabstop=2
+
 autocmd FileType make setlocal noexpandtab
 
 nnoremap <silent> <A-Up> :wincmd k<CR>
