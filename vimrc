@@ -95,3 +95,8 @@ set hlsearch
 "  %    :  saves and restores the buffer list
 "  n... :  where to save the viminfo files
 set viminfo='10,\"100,:20,%,n~/.viminfo
+
+noremap <C-a> <Home>
+noremap <C-e> <End>
+inoremap <C-a> <Home>
+inoremap <C-e> <End>
