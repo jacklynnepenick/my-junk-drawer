@@ -1,3 +1,6 @@
+source $VIMRUNTIME/default_vimrc
+set encoding=utf-8
+
 set nocompatible
 set autoindent
 
@@ -38,6 +41,7 @@ function! s:DiffWithSaved()
   exe "setlocal bt=nofile bh=wipe nobl noswf ro ft=" . filetype
 endfunction
 com! DiffSaved call s:DiffWithSaved()
+
 
 set number
 set expandtab
